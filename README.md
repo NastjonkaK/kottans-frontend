@@ -24,3 +24,8 @@ It was useful to learn something new doing tasks. But more information about HTM
 ![screenshot_into_to_html_and_css](https://github.com/NastjonkaK/kottans-frontend/blob/master/task_html_css_intro/IntroToHTML%26CSS.png)
 ![screenshot_html](https://github.com/NastjonkaK/kottans-frontend/blob/master/task_html_css_intro/HTML.png)
 ![screenshot_css](https://github.com/NastjonkaK/kottans-frontend/blob/master/task_html_css_intro/CSS.png)
+
+## Responsive Web Design
+
+![screenshot_responsive_web_design](https://github.com/NastjonkaK/kottans-frontend/blob/master/task_responsive_web_design/responsive_web_design.png)
+![screenshot_flexbox_froggy](https://github.com/NastjonkaK/kottans-frontend/blob/master/task_responsive_web_design/flexbox_froggy.png)
