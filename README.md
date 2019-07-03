@@ -15,3 +15,12 @@ Some information wasn't new to me, because I learned something about Linux comma
 ![screenshot_what_is_version_control](https://github.com/NastjonkaK/kottans-frontend/blob/master/task_git_collaboration/WhatIsVersionControl.png)
 
 ![screenshot_github_and_collaboration](https://github.com/NastjonkaK/kottans-frontend/blob/master/task_git_collaboration/GitHub%26Collaboration.png)
+
+
+## Intro to HTML and CSS
+
+It was useful to learn something new doing tasks. But more information about HTML and CSS I learned before.
+
+![screenshot_into_to_html_and_css](https://github.com/NastjonkaK/kottans-frontend/blob/master/task_html_css_intro/IntroToHTML%26CSS.png)
+![screenshot_html](https://github.com/NastjonkaK/kottans-frontend/blob/master/task_html_css_intro/HTML.png)
+![screenshot_css](https://github.com/NastjonkaK/kottans-frontend/blob/master/task_html_css_intro/CSS.png)
