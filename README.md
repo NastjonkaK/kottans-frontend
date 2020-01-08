@@ -29,3 +29,7 @@ It was useful to learn something new doing tasks. But more information about HTM
 
 ![screenshot_responsive_web_design](https://github.com/NastjonkaK/kottans-frontend/blob/master/task_responsive_web_design/responsive_web_design.png)
 ![screenshot_flexbox_froggy](https://github.com/NastjonkaK/kottans-frontend/blob/master/task_responsive_web_design/flexbox_froggy.png)
+
+## DOM
+
+This was definitely harder than the previous levels.
