@@ -33,3 +33,6 @@ It was useful to learn something new doing tasks. But more information about HTM
 ## DOM
 
 This was definitely harder than the previous levels.
+
+![screenshot_JS_DOM](https://github.com/NastjonkaK/kottans-frontend/blob/master/task_js_dom/JS_DOM%20.png)
+![screenshot_algorithm_scripting_challenges](https://github.com/NastjonkaK/kottans-frontend/blob/master/task_js_dom/algorithm_Scripting_Challenges.png)
